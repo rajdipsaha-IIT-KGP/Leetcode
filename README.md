@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0200-number-of-islands) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0210-course-schedule-ii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -92,17 +94,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Tree
 |  |
 | ------- |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Design
 |  |
 | ------- |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
+## Math
+|  |
+| ------- |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 <!---LeetCode Topics End-->
