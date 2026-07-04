@@ -21,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0210-course-schedule-ii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0210-course-schedule-ii) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
@@ -78,12 +80,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0210-course-schedule-ii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0200-number-of-islands) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Topological Sort
 |  |
 | ------- |
