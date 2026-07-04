@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0207-course-schedule) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -123,5 +125,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
