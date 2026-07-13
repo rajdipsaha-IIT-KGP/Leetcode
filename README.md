@@ -263,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
