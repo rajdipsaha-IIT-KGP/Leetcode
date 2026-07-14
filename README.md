@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2080-range-frequency-queries](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/2080-range-frequency-queries) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0189-rotate-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Prefix Sum
 |  |
