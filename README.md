@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2080-range-frequency-queries](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/2080-range-frequency-queries) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## String
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1392-longest-happy-prefix](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1392-longest-happy-prefix) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sorting
 |  |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0274-h-index) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3223-minimum-length-of-string-after-operations) |
 ## Rolling Hash
 |  |
 | ------- |
