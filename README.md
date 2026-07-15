@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Prefix Sum
 |  |
