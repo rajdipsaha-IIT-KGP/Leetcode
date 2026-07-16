@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1657-determine-if-two-strings-are-close](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2080-range-frequency-queries](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/2080-range-frequency-queries) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3223-minimum-length-of-string-after-operations) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0242-valid-anagram) |
 | [1143-longest-common-subsequence](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1392-longest-happy-prefix](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1392-longest-happy-prefix) |
+| [1657-determine-if-two-strings-are-close](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0274-h-index) |
 | [1288-remove-covered-intervals](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1657-determine-if-two-strings-are-close](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0274-h-index) |
+| [1657-determine-if-two-strings-are-close](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3223-minimum-length-of-string-after-operations) |
 ## Rolling Hash
 |  |
