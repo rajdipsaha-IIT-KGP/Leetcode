@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0214-shortest-palindrome](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0520-detect-capital) |
 | [0859-buddy-strings](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0859-buddy-strings) |
 | [1143-longest-common-subsequence](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1143-longest-common-subsequence) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0165-compare-version-numbers](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0189-rotate-array) |
+| [0443-string-compression](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0443-string-compression) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
