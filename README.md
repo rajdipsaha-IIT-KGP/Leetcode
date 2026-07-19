@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0242-valid-anagram](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0242-valid-anagram) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0049-group-anagrams) |
 | [0165-compare-version-numbers](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0214-shortest-palindrome](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0242-valid-anagram) |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0274-h-index) |
 | [1288-remove-covered-intervals](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1288-remove-covered-intervals) |
