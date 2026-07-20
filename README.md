@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1260-shift-2d-grid](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0200-number-of-islands) |
+| [1260-shift-2d-grid](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
