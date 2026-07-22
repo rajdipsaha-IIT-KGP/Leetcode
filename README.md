@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0200-number-of-islands) |
 | [0274-h-index](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0274-h-index) |
+| [0300-longest-increasing-subsequence](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0035-search-insert-position) |
+| [0300-longest-increasing-subsequence](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2080-range-frequency-queries](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/2080-range-frequency-queries) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0045-jump-game-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0834-sum-of-distances-in-tree](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [1143-longest-common-subsequence](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
