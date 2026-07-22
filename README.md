@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0200-number-of-islands) |
 | [0274-h-index](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0274-h-index) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0045-jump-game-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0834-sum-of-distances-in-tree](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [1143-longest-common-subsequence](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
