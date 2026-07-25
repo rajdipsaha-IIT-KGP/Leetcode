@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0834-sum-of-distances-in-tree](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1478-allocate-mailboxes](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1478-allocate-mailboxes) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1657-determine-if-two-strings-are-close](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1755-closest-subsequence-sum](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1755-closest-subsequence-sum) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0200-number-of-islands) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimum Spanning Tree
 |  |
 | ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Queue
 |  |
@@ -458,4 +462,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 <!---LeetCode Topics End-->
