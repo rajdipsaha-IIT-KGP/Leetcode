@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0274-h-index) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1478-allocate-mailboxes](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1478-allocate-mailboxes) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0012-integer-to-roman) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0189-rotate-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1478-allocate-mailboxes](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1478-allocate-mailboxes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
