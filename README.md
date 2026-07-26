@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2080-range-frequency-queries](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/2080-range-frequency-queries) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3295-report-spam-message](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3295-report-spam-message) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2080-range-frequency-queries](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/2080-range-frequency-queries) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3223-minimum-length-of-string-after-operations) |
+| [3295-report-spam-message](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3295-report-spam-message) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## String
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3223-minimum-length-of-string-after-operations) |
+| [3295-report-spam-message](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3295-report-spam-message) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
