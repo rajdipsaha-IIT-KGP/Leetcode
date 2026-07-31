@@ -538,4 +538,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
