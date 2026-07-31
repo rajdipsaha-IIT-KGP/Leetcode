@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2080-range-frequency-queries](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/2080-range-frequency-queries) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3295-report-spam-message](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3295-report-spam-message) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3295-report-spam-message](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3295-report-spam-message) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1657-determine-if-two-strings-are-close](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1755-closest-subsequence-sum](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1755-closest-subsequence-sum) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Number Theory
@@ -434,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0274-h-index) |
 | [1657-determine-if-two-strings-are-close](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
