@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0049-group-anagrams) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
