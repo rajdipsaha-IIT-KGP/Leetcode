@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0200-number-of-islands) |
+| [0219-contains-duplicate-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0859-buddy-strings](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0859-buddy-strings) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Counting Sort
