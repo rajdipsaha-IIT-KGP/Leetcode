@@ -563,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0197-rising-temperature) |
+| [0577-employee-bonus](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0620-not-boring-movies) |
 | [1661-average-time-of-process-per-machine](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1661-average-time-of-process-per-machine) |
 ## Recursion
