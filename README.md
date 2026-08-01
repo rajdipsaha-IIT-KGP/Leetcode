@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0048-rotate-image) |
 | [0130-surrounded-regions](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
