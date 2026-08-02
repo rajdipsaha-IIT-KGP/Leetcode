@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0307-range-sum-query-mutable) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0035-search-insert-position) |
+| [0240-search-a-2d-matrix-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0307-range-sum-query-mutable) |
 ## Binary Search Tree
 |  |
