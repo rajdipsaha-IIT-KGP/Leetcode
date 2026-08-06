@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0322-coin-change](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0310-minimum-height-trees) |
+| [0322-coin-change](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0486-predict-the-winner) |
 | [0834-sum-of-distances-in-tree](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0877-stone-game](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0877-stone-game) |
@@ -652,4 +655,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
