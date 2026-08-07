@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0877-stone-game](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0877-stone-game) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1048-longest-string-chain](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1048-longest-string-chain) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0486-predict-the-winner) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0834-sum-of-distances-in-tree](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0877-stone-game](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0877-stone-game) |
 | [1048-longest-string-chain](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1048-longest-string-chain) |
@@ -552,12 +554,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2080-range-frequency-queries](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/2080-range-frequency-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -688,4 +692,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
