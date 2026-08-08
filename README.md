@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1331-rank-transform-of-an-array](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1406-stone-game-iii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1406-stone-game-iii) |
 | [1478-allocate-mailboxes](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1478-allocate-mailboxes) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
