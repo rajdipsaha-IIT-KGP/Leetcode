@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1478-allocate-mailboxes](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1478-allocate-mailboxes) |
 | [1584-min-cost-to-connect-all-points](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+| [1686-stone-game-vi](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1686-stone-game-vi) |
 | [1755-closest-subsequence-sum](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1755-closest-subsequence-sum) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1686-stone-game-vi](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1686-stone-game-vi) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Matrix
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-allocate-mailboxes](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1478-allocate-mailboxes) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1657-determine-if-two-strings-are-close](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+| [1686-stone-game-vi](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1686-stone-game-vi) |
 | [1755-closest-subsequence-sum](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1755-closest-subsequence-sum) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1406-stone-game-iii) |
 | [1478-allocate-mailboxes](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1478-allocate-mailboxes) |
 | [1510-stone-game-iv](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1510-stone-game-iv) |
+| [1686-stone-game-vi](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1686-stone-game-vi) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -507,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1686-stone-game-vi](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1686-stone-game-vi) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -677,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1510-stone-game-iv) |
+| [1686-stone-game-vi](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1686-stone-game-vi) |
 ## DP on Trees
 |  |
 | ------- |
@@ -686,11 +692,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1510-stone-game-iv) |
+| [1686-stone-game-vi](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1686-stone-game-vi) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1510-stone-game-iv) |
+| [1686-stone-game-vi](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1686-stone-game-vi) |
 ## Iterator
 |  |
 | ------- |
