@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0877-stone-game](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0877-stone-game) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1048-longest-string-chain](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1048-longest-string-chain) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1686-stone-game-vi](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1686-stone-game-vi) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0456-132-pattern](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0456-132-pattern) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2080-range-frequency-queries](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/2080-range-frequency-queries) |
@@ -541,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1140-stone-game-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -597,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
@@ -651,10 +656,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Strongly Connected Component
 |  |
