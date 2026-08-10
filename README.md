@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0162-find-peak-element) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0242-valid-anagram) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0058-length-of-last-word) |
+| [0139-word-break](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0214-shortest-palindrome](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0214-shortest-palindrome) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -661,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0139-word-break) |
 ## Randomized
 |  |
 | ------- |
@@ -717,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0139-word-break) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -738,4 +744,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1510-stone-game-iv) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
