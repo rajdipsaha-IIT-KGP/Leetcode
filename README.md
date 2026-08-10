@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2080-range-frequency-queries](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/2080-range-frequency-queries) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3295-report-spam-message](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3295-report-spam-message) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1755-closest-subsequence-sum](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1755-closest-subsequence-sum) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 ## Counting Sort
 |  |
 | ------- |
