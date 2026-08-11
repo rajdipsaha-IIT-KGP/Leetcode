@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0443-string-compression](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0443-string-compression) |
+| [0516-longest-palindromic-subsequence](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0520-detect-capital) |
 | [0859-buddy-strings](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0859-buddy-strings) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0486-predict-the-winner) |
+| [0516-longest-palindromic-subsequence](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0834-sum-of-distances-in-tree](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0877-stone-game](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0877-stone-game) |
