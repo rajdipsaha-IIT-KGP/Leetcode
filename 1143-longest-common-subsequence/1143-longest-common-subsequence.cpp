@@ -1,20 +1,25 @@
 class Solution {
 public:
-    int f(vector<vector<int>>&dp,int i,int j,string &s1,string &s2){
+    int f(vector<vector<int>>& dp,string &s,string &t,int i,int j){
         if(i < 0 || j < 0)
         return 0;
+
         if(dp[i][j] != -1)
         return dp[i][j];
-        if(s1[i] == s2[j])
-        return dp[i][j] = 1+f(dp,i - 1,j - 1,s1,s2);
-        
-        return dp[i][j] = max(f(dp,i - 1,j,s1,s2),f(dp,i,j - 1,s1,s2));
+
+        if(s[i] == t[j])
+        return dp[i][j] = 1 + f(dp,s,t,i-1,j-1);
+       
+        else{
+            return dp[i][j] = max(f(dp,s,t,i-1,j),f(dp,s,t,i,j-1));
+        }
+
     }
-    int longestCommonSubsequence(string s1, string s2) {
-        int n = s1.length();
-        int m = s2.length();
+    int longestCommonSubsequence(string text1, string text2) {
+        int n = text1.size();
+        int m = text2.size();
 
         vector<vector<int>>dp(n,vector<int>(m,-1));
-        return f(dp,n - 1,m - 1,s1,s2);
+        return f(dp,text1,text2,n-1,m-1);
     }
 };
