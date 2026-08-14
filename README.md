@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0058-length-of-last-word) |
+| [0072-edit-distance](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
