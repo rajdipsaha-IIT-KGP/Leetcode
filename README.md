@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3620-network-recovery-pathways) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Tree
 |  |
 | ------- |
