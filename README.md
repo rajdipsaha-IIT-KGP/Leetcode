@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1048-longest-string-chain](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1092-shortest-common-supersequence](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1392-longest-happy-prefix) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0834-sum-of-distances-in-tree](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0877-stone-game](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0877-stone-game) |
 | [1048-longest-string-chain](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1048-longest-string-chain) |
+| [1092-shortest-common-supersequence](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1140-stone-game-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -847,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [1092-shortest-common-supersequence](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Range Minimum/Maximum Query
 |  |
