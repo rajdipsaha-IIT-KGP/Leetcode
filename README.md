@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0189-rotate-array) |
 | [0443-string-compression](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0443-string-compression) |
+| [0876-middle-of-the-linked-list](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1048-longest-string-chain](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1048-longest-string-chain) |
 | [1755-closest-subsequence-sum](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1755-closest-subsequence-sum) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
@@ -876,4 +877,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0493-reverse-pairs) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
