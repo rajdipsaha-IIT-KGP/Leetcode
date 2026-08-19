@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0049-group-anagrams) |
+| [0148-sort-list](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0274-h-index) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0189-rotate-array) |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0307-range-sum-query-mutable) |
@@ -885,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0493-reverse-pairs) |
 ## Treap
 |  |
@@ -895,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0328-odd-even-linked-list) |
