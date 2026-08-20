@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3295-report-spam-message](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3295-report-spam-message) |
@@ -744,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1260-shift-2d-grid) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
