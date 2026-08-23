@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1392-longest-happy-prefix) |
 | [1657-determine-if-two-strings-are-close](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+| [1927-sum-game](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1927-sum-game) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-allocate-mailboxes](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1478-allocate-mailboxes) |
 | [1510-stone-game-iv](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1686-stone-game-vi) |
+| [1927-sum-game](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -628,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1386-cinema-seat-allocation](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1686-stone-game-vi](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1686-stone-game-vi) |
+| [1927-sum-game](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1927-sum-game) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -823,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1686-stone-game-vi) |
+| [1927-sum-game](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1927-sum-game) |
 ## DP on Trees
 |  |
 | ------- |
