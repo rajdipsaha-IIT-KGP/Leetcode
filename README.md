@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1686-stone-game-vi](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1686-stone-game-vi) |
 | [1755-closest-subsequence-sum](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1755-closest-subsequence-sum) |
+| [1872-stone-game-viii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1872-stone-game-viii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2080-range-frequency-queries](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/2080-range-frequency-queries) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1510-stone-game-iv](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1510-stone-game-iv) |
 | [1755-closest-subsequence-sum](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1755-closest-subsequence-sum) |
+| [1872-stone-game-viii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-allocate-mailboxes](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1478-allocate-mailboxes) |
 | [1510-stone-game-iv](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1686-stone-game-vi) |
+| [1872-stone-game-viii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -656,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1140-stone-game-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1872-stone-game-viii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1872-stone-game-viii) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Divide and Conquer
@@ -826,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1686-stone-game-vi) |
+| [1872-stone-game-viii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1927-sum-game) |
 ## DP on Trees
 |  |
@@ -837,12 +842,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1686-stone-game-vi) |
+| [1872-stone-game-viii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1686-stone-game-vi) |
+| [1872-stone-game-viii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1872-stone-game-viii) |
 ## Iterator
 |  |
 | ------- |
