@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1927-sum-game) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1048-longest-string-chain) |
 | [1755-closest-subsequence-sum](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1755-closest-subsequence-sum) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1510-stone-game-iv) |
 | [1755-closest-subsequence-sum](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1755-closest-subsequence-sum) |
 | [1872-stone-game-viii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -664,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
