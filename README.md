@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0520-detect-capital) |
+| [0678-valid-parenthesis-string](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0859-buddy-strings](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0859-buddy-strings) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0834-sum-of-distances-in-tree](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0877-stone-game](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0877-stone-game) |
@@ -675,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0456-132-pattern) |
+| [0678-valid-parenthesis-string](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -688,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0410-split-array-largest-sum](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -1034,5 +1038,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
