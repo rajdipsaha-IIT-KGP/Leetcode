@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0322-coin-change) |
 | [0433-minimum-genetic-mutation](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0433-minimum-genetic-mutation) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0383-ransom-note) |
 | [0433-minimum-genetic-mutation](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0433-minimum-genetic-mutation) |
@@ -855,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0078-subsets) |
+| [0301-remove-invalid-parentheses](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bitmask
 |  |
