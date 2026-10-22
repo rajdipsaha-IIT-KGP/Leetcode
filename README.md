@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Breadth-First Search
 |  |
 | ------- |
