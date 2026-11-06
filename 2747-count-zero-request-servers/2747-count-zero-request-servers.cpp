@@ -1,33 +1,45 @@
 class Solution {
 public:
-    vector<int> countServers(int n, vector<vector<int>>& logs, int x,
-                             vector<int>& queries) {
-        sort(logs.begin(), logs.end(),
-             [](const auto& a, const auto& b) { return a[1] < b[1]; });
-
-        vector<int> ids(queries.size());
-        iota(ids.begin(), ids.end(), 0);
-        sort(ids.begin(), ids.end(),
-             [&](int i, int j) { return queries[i] < queries[j]; });
-
-        vector<int> ans(queries.size()), cnt(n + 1);
-        int left = 0, right = 0, active = 0;
-        for (int i : ids) {
-            int q = queries[i];
-            while (right < logs.size() && logs[right][1] <= q) {
-                int id = logs[right++][0];
-                if (cnt[id]++ == 0) {
-                    ++active;
-                }
-            }
-            while (left < right && logs[left][1] < q - x) {
-                int id = logs[left++][0];
-                if (--cnt[id] == 0) {
-                    --active;
-                }
-            }
-            ans[i] = n - active;
+    vector<int> countServers(int n, vector<vector<int>>& logs, int x, vector<int>& queries) {
+        map<int,int>mp;
+        for(int i = 0 ; i < queries.size() ; i++){
+            mp[queries[i]] = i;
         }
-        return ans;
+        sort(queries.begin(),queries.end());
+        sort(logs.begin(),logs.end(),[&](vector<int>a,vector<int>b){
+          return a[1] < b[1];
+        });
+
+        int l = 0;
+        int r = 0;
+
+        int m = logs.size();
+
+        vector<int>ans(queries.size(),0);
+
+        unordered_map<int,int>freqMap;
+
+      for(int i = 0 ; i < queries.size() ; i++){
+        int start = queries[i] - x;
+        int end = queries[i];
+
+        while(r < m && logs[r][1] <= end){
+            freqMap[logs[r][0]]++;
+            r++;
+            
+        }
+
+        while(l < m && logs[l][1] < start){
+            if(freqMap[logs[l][0]]){
+                freqMap[logs[l][0]]--;
+                if(freqMap[logs[l][0]] == 0)
+                freqMap.erase(logs[l][0]);
+            }
+            l++;
+        } 
+        
+        ans[mp[queries[i]]] = n - freqMap.size();
+      }
+      return ans;
     }
 };
