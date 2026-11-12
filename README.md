@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3295-report-spam-message](https://github.com/rajdipsaha-IIT-KGP/Leetcode/tree/master/3295-report-spam-message) |
