@@ -54,13 +54,13 @@ public:
         Node* node = mp[key];
         deleteNode(node);
         insertNode(node);
-        return node->val;
+        return mp[key]->val;
     }
     
     void put(int key, int value) {
         if(mp.find(key) == mp.end()){
             if(mp.size() == cap){
-                 mp.erase(tail->prev->key);
+            mp.erase(tail->prev->key);
             deleteNode(tail->prev);
            
             }
